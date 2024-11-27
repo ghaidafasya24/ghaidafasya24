@@ -1,16 +1,34 @@
-## Hi, My name is Ghaida👋
+# Hi there, I'm Ghaida! 👋
 
-<!--
-**ghaidafasya24/ghaidafasya24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I'm a passionate D4 Teknik Informatika student. With a strong foundation in programming, I enjoy creating impactful digital solutions.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning and building projects in **web development**, **mobile apps**, and **backend systems**.
+- 👥 Active member of the **Himpunan Mahasiswa Teknik Informatika**, specifically in the **Development Team (DevTeam)**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 Tech Stack
+- **Languages:** PHP, JavaScript, Go-Language, Dart, Python
+- **Frameworks:** Laravel, Bootstrap , Fiber
+- **Databases:** MySQL, MongoDB
+- **Other Skills:** Git, Figma, Canva, RESTful APIs
+---
+
+### 🌐 Find Me
+- LinkedIn: [Your LinkedIn](#)
+- GitHub: [Your GitHub](https://github.com/ghaidafasya24)
+- Email: [My Email](mailto:ghaidafasya5@gmail.com)
+- Campus Email: [My College Email](mailto:714220031@std.ulbi.ac.id)
+
+---
+
+### 📊 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ghaidafasya24&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ghaidafasya24&layout=compact&theme=radical)
+
+---
+
+💡 "The best way to predict the future is to create it."  
+Feel free to connect with me or check out my repositories!
