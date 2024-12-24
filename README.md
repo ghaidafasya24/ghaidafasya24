@@ -20,9 +20,16 @@ I'm a passionate D4 Teknik Informatika student. With a strong foundation in prog
 ---
 
 ### 🌐 Find Me
-- GitHub: [My GitHub](https://github.com/ghaidafasya24)
-- Email: [My Email](mailto:ghaidafasya5@gmail.com)
-- Campus Email: [My College Email](mailto:714220031@std.ulbi.ac.id)
+
+<div align="between"> 
+  <a href="mailto:ghaidafsy13@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-35495e?style=for-the-badge&logo=gmail&logoColor=white&color=red" />
+  </a>
+  <a href="https://www.instagram.com/ghaidafasya24/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white&color=purple" />
+  </a>
+</div>
+
 
 ---
 
