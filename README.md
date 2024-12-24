@@ -1,4 +1,4 @@
-# Hi there, I'm Ghaida! 👋
+
 
 ### 👨‍💻 About Me
 I'm a passionate D4 Teknik Informatika student. With a strong foundation in programming, I enjoy creating impactful digital solutions.
