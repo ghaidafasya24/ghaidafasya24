@@ -1,3 +1,7 @@
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=40&color=00BFFF&center=true&vCenter=true&width=700&height=100&duration=5000&lines=Hi+Everyone!+👋;+I'm+Ghaida+Fasya!&effect=split&effect_duration=2000&background_color=ffffff" />
+</h1>
+
 
 
 ### 👨‍💻 About Me
