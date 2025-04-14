@@ -10,7 +10,7 @@
 ---
 
 ### 👨‍💻 About Me  
-I'm a passionate **D4 Teknik Informatika** student, driven by the desire to solve real-world problems through technology.  
+I'm a passionate **Informatics Engineering** student, driven by the desire to solve real-world problems through technology.  
 With expertise in programming and design, I thrive in creating innovative and user-centric solutions.
 
 - 🌱 Currently exploring **web development**, **mobile apps**, and **backend systems**.  
