@@ -62,7 +62,7 @@ With expertise in programming and design, I thrive in creating innovative and us
 
 ### Tools
 
-![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman)
+![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,postman,sublime)
 
 ---
 
